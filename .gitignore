@@ -1,0 +1,4 @@
+# six-word payday forge
+node_modules/
+/output/
+*.log
